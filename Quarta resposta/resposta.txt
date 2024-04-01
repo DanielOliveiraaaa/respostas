@@ -1,0 +1,10 @@
+Eu descobriria da seguinte forma:
+
+Primeiro ligaria o interruptor e o deixaria ligado por alguns minutos.
+Depois, desligaria o primeiro interruptor e ligaria o segundo.
+Agora, entraria na sala com as lâmpadas.
+A lâmpada que estiver acesa corresponderá ao interruptor que foi ligado e desligado, mas ainda estará quente.
+A lâmpada que estiver apagada e fria corresponderá ao interruptor que nunca foi ligado.
+A lâmpada que estiver apagada e ainda estiver quente, corresponderá ao interruptor que foi ligado e não foi desligado.
+Assim eu conseguiria identificar qual interruptor controla cada lâmpada com apenas uma ida a sala das lâmpadas.
+
